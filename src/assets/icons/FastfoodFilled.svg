@@ -1,0 +1,14 @@
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="FastfoodFilled" clip-path="url(#clip0_15_6535)">
+<path id="Vector" d="M10.836 14.094H11.832C12.336 14.094 12.75 13.71 12.81 13.218L13.8 3.33002H10.8V0.900024H9.61797V3.33002H6.63597L6.81597 4.73402C7.84197 5.01602 8.80197 5.52602 9.37797 6.09002C10.242 6.94202 10.836 7.82402 10.836 9.26402V14.094ZM0.599976 13.494V12.9H9.61797V13.494C9.61797 13.824 9.34797 14.094 9.01197 14.094H1.20598C0.869976 14.094 0.599976 13.824 0.599976 13.494ZM9.61797 9.29402C9.61797 4.49402 0.599976 4.49402 0.599976 9.29402H9.61797ZM0.611976 10.5H9.61197V11.7H0.611976V10.5Z" fill="url(#paint0_linear_15_6535)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_15_6535" x1="7.19997" y1="0.900024" x2="7.19997" y2="14.094" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#56E1FF"/>
+</linearGradient>
+<clipPath id="clip0_15_6535">
+<rect width="14.4" height="14.4" fill="white" transform="translate(0 0.300049)"/>
+</clipPath>
+</defs>
+</svg>

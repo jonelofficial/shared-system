@@ -1,0 +1,11 @@
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="StoreFilled">
+<path id="Vector" d="M12 2.70007H2.39999V3.90007H12V2.70007ZM12.6 8.70007V7.50007L12 4.50007H2.39999L1.79999 7.50007V8.70007H2.39999V12.3001H8.39999V8.70007H10.8V12.3001H12V8.70007H12.6ZM7.19999 11.1001H3.59999V8.70007H7.19999V11.1001Z" fill="url(#paint0_linear_15_4341)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_15_4341" x1="7.19999" y1="2.70007" x2="7.19999" y2="12.3001" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#56E1FF"/>
+</linearGradient>
+</defs>
+</svg>

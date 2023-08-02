@@ -1,0 +1,11 @@
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="WarehouseFilled">
+<path id="Vector" d="M13.2 12.9001V4.5001L7.20001 2.1001L1.20001 4.5001V12.9001H4.20001V7.5001H10.2V12.9001H13.2ZM6.60001 11.7001H5.40001V12.9001H6.60001V11.7001ZM7.80001 9.9001H6.60001V11.1001H7.80001V9.9001ZM9.00001 11.7001H7.80001V12.9001H9.00001V11.7001Z" fill="url(#paint0_linear_15_6109)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_15_6109" x1="7.20001" y1="2.1001" x2="7.20001" y2="12.9001" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#56E1FF"/>
+</linearGradient>
+</defs>
+</svg>
